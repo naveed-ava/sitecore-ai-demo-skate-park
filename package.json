@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "@sitecore-marketplace-sdk/client": "^0.3.2",
-    "@sitecore-marketplace-sdk/xmc": "^0.4.1"
-  }
-}
