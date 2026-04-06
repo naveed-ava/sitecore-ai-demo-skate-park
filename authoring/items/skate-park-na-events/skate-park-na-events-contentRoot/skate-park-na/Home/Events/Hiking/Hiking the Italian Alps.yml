@@ -1,0 +1,40 @@
+﻿---
+ID: "4e5ce400-83b1-47ff-b16d-97a14a0b608c"
+Parent: "f2a3d458-c4a7-42c0-9203-1c4d061efb26"
+Template: "860eda13-71b2-4a90-8f4e-25ebab63493a"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Home/Events/Hiking/Hiking the Italian Alps"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{633469EB-8868-4A1D-8B38-E36848383D12}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T010756Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Hiking the Italian Alps
+    - ID: "53f1db19-e83e-44db-be5a-1f55e2e1c43d"
+      Hint: Intro
+      Value: Hiking the Italian Alps introduction
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d9777a95-9039-429b-acae-b7fd1c42a7f1"
+    - ID: "9b9228f7-5094-4758-aa4c-a0dae7cbd8ad"
+      Hint: Title
+      Value: Hiking the Italian Alps
+    - ID: "a3a11c82-6714-4881-b8cc-46cc195d9417"
+      Hint: EventDate
+      Value: 20260406T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T010809Z

@@ -1,0 +1,23 @@
+﻿---
+ID: "0e8287a5-0d57-4a52-83dc-b78ebbd61362"
+Parent: "d3494189-bb4b-4c79-b255-cb9fda0b96e9"
+Template: "24c18937-700b-4e8a-97d9-f5c8be32c69b"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Data/Hero"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T023932Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "72416a5c-dd11-44c4-9990-dff12f9018d1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T023932Z

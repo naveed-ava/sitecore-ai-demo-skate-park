@@ -1,0 +1,26 @@
+﻿---
+ID: "5e3621b2-94dc-46c5-ab3a-d56e733e3888"
+Parent: "24090be6-85b3-4a2e-aab3-013e777616ca"
+Template: "61fb365e-0acf-4522-9c2d-4724458237c8"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Data/Holiday Types/Adventure"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T010418Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a05bfa5d-5ed7-4469-96b8-13666ba3d920"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T010418Z
+    - ID: "fdb3911f-17a1-4964-b460-4880a6712b73"
+      Hint: Text
+      Value: Adventure

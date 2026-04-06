@@ -1,0 +1,34 @@
+﻿---
+ID: "1b9449ba-de8e-48db-aaf3-a1f80bf17591"
+Parent: "ffa27be6-6da7-499d-9457-b7efb4e2a057"
+Template: "ffa27be6-6da7-499d-9457-b7efb4e2a057"
+Path: "/sitecore/templates/Project/na-collection-demo/Events/Pages/_Base Content/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T005214Z
+    - ID: "53f1db19-e83e-44db-be5a-1f55e2e1c43d"
+      Hint: Intro
+      Value: $name introduction
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6bcdb97b-450c-4b71-8fc9-bfa315866d9e"
+    - ID: "a603355a-efec-4a2c-a928-33436c87cb62"
+      Hint: ContentImage
+      Value: |
+        <image mediaid="{EACE5A24-E6D0-4C33-8E93-4C6514C03B82}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "bb8c3949-353f-4db6-b523-5f2d3432bd88"
+      Hint: NavigationImage
+      Value: |
+        <image mediaid="{9567BC44-CF81-4C04-B666-E369734AE822}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T005705Z

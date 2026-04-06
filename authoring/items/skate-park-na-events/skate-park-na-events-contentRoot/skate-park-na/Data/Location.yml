@@ -1,0 +1,30 @@
+﻿---
+ID: "5acfdda2-87a8-4514-bdfd-b4fd5929e6d6"
+Parent: "d3494189-bb4b-4c79-b255-cb9fda0b96e9"
+Template: "f41c8c81-1a25-4799-8d4b-5ea5b745a8b1"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Data/Location"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "4859d0ce-e0eb-4c2f-aae6-5808b3eb975c"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T010249Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c348c0e6-64b6-45f8-9c67-fc6261e03e18"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T010316Z

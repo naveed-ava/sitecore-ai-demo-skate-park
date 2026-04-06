@@ -1,0 +1,26 @@
+﻿---
+ID: "d0b8894c-0b6d-419f-8196-d6c7b7a9e7e3"
+Parent: "5acfdda2-87a8-4514-bdfd-b4fd5929e6d6"
+Template: "61fb365e-0acf-4522-9c2d-4724458237c8"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Data/Location/Europe"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T010335Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a8b28572-8c58-4de5-8c80-d4df0834c923"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T010335Z
+    - ID: "fdb3911f-17a1-4964-b460-4880a6712b73"
+      Hint: Text
+      Value: Europe

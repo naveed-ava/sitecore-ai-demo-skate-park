@@ -1,0 +1,20 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "skate-park-na.Events.ContentItems",
+  "references": ["skate-park-na.Events.DevItems"],
+  "items": {
+    "path": "skate-park-na-events",
+    "includes": [
+      {
+        "name": "skate-park-na-events-media",
+        "path": "/sitecore/media library/Project/na-collection-demo/skate-park-na",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "skate-park-na-events-contentRoot",
+        "path": "/sitecore/content/na-collection-demo/skate-park-na",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  }
+}

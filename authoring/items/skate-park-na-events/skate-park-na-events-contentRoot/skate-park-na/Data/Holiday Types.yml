@@ -1,0 +1,23 @@
+﻿---
+ID: "24090be6-85b3-4a2e-aab3-013e777616ca"
+Parent: "d3494189-bb4b-4c79-b255-cb9fda0b96e9"
+Template: "f41c8c81-1a25-4799-8d4b-5ea5b745a8b1"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Data/Holiday Types"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T010306Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2f867e4f-c7fc-42eb-8cb5-82a8181793ce"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T010622Z

@@ -1,0 +1,42 @@
+﻿---
+ID: "820bfd0c-5352-4679-a845-9413e498ee13"
+Parent: "3d0f3295-a726-4132-aef0-25102048b5ba"
+Template: "f00a020e-d3cf-45a4-a2fa-8ed4f69a508e"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Presentation/Page Designs"
+BranchID: "45cf9f42-b3ac-4412-aab9-f8441c7e448e"
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b498D15A3-9A10-4787-9A49-5DEAEC1A25F6%7d%3d%257BAB084EF3-CFEF-41F2-AE51-AD5D4B0B0A55%257D%26%7b860EDA13-71B2-4A90-8F4E-25EBAB63493A%7d%3d%257B7E8FCE71-4C3F-4395-97FF-F7E845306372%257D%26%7b00CBFE67-9653-4E01-9275-67A4C3824848%7d%3d%257B532ED5D2-E6FF-4AA0-AE18-FE30B10FDAF1%257D%26%7bC4B0E7D1-57F5-443F-A6F0-C9DDA1E3CA3E%7d%3d%257B532ED5D2-E6FF-4AA0-AE18-FE30B10FDAF1%257D"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "a4f386a2-9685-49d6-aba2-613ea60177f3"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260405T210603Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8ac59825-6553-4f3e-b8cc-300efce362eb"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T124634Z

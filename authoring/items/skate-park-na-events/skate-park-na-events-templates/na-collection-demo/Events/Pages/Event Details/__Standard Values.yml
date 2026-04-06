@@ -1,0 +1,36 @@
+﻿---
+ID: "7c867f4a-17d5-463d-bb57-4acc9bb7c8c2"
+Parent: "860eda13-71b2-4a90-8f4e-25ebab63493a"
+Template: "860eda13-71b2-4a90-8f4e-25ebab63493a"
+Path: "/sitecore/templates/Project/na-collection-demo/Events/Pages/Event Details/__Standard Values"
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: 
+- ID: "ca9b9f52-4fb0-4f87-a79f-24dea62cda65"
+  Hint: __Default workflow
+  Value: "{DE4E8CB8-8204-460F-8990-DE9C80578C60}"
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "d5a26de6-9fc5-4084-a370-0f9209bfab9e"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T005727Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a0357217-5ff2-424d-9b9a-e6576560d6bf"
+    - ID: "a3a11c82-6714-4881-b8cc-46cc195d9417"
+      Hint: EventDate
+      Value: $date
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T013008Z

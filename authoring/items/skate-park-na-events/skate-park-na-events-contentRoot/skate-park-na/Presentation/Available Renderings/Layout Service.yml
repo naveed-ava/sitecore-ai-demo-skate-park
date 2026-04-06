@@ -1,0 +1,42 @@
+﻿---
+ID: "13c20593-6e6a-48a3-b0e5-f800d69d1b89"
+Parent: "fe5be28b-2a5a-4ce7-99ac-39abc8ebe53d"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Presentation/Available Renderings/Layout Service"
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Value: |
+    {A52107F7-2DB8-43C9-A334-DCFFEA2267E8}
+    {6C0613E1-12AC-4E37-B38F-20AE5A511FDA}
+    {31E488D1-9AAE-4D13-80CB-259626A66255}
+    {455C48C7-F3A4-4D18-A0D5-5A84E3DCB682}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "e81926de-bc0e-4dac-8c2b-18e11af4e560"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T113318Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f86689d8-6fe1-46bc-afe2-b68c22a55a59"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T114935Z

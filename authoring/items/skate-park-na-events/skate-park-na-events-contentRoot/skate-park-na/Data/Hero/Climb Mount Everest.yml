@@ -1,0 +1,30 @@
+﻿---
+ID: "b4f7c22b-2a47-4ec6-8fcf-0068e65648f9"
+Parent: "0e8287a5-0d57-4a52-83dc-b78ebbd61362"
+Template: "447cdd42-18f1-4798-8495-fedc46bd7f93"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Data/Hero/Climb Mount Everest"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T023950Z
+    - ID: "32547901-a920-4962-932a-dc9a61368344"
+      Hint: HeroLink
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{DBA7DA49-ED5B-45A0-B7D3-2C899CE4BAE6}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e33d6887-90f0-49dd-a106-51e80904c583"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T024041Z
+    - ID: "f1c15a2b-57a4-469a-9cef-cb70f568742e"
+      Hint: HeroText
+      Value: Climb Mount Everest

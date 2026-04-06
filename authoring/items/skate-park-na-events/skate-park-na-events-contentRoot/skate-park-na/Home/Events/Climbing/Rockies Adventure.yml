@@ -1,0 +1,51 @@
+﻿---
+ID: "20d8ae4d-fb37-47a6-89c7-3198b058d217"
+Parent: "06f8ea77-d80b-43a2-9384-86dc59579f42"
+Template: "860eda13-71b2-4a90-8f4e-25ebab63493a"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Home/Events/Climbing/Rockies Adventure"
+SharedFields:
+- ID: "c7c26117-dbb1-42b2-ab5e-f7223845cca3"
+  Hint: __Thumbnail
+  Value: |
+    <image mediaid="{51BE5EEA-09F3-4415-827F-0D2F624D848C}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T012352Z
+    - ID: "4816b319-910d-4f8c-93ed-0b393318ee92"
+      Hint: FeaturedLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title="" target="_blank" querystring="" id="{20D8AE4D-FB37-47A6-89C7-3198B058D217}" />
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Rockies Adventure
+    - ID: "53f1db19-e83e-44db-be5a-1f55e2e1c43d"
+      Hint: Intro
+      Value: Rockies Adventure introduction
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "64e71370-8e8e-4514-9287-fad39edf8244"
+    - ID: "9b9228f7-5094-4758-aa4c-a0dae7cbd8ad"
+      Hint: Title
+      Value: Rockies Adventure
+    - ID: "a3a11c82-6714-4881-b8cc-46cc195d9417"
+      Hint: EventDate
+      Value: 20260406T000000Z
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "bb8c3949-353f-4db6-b523-5f2d3432bd88"
+      Hint: NavigationImage
+      Value: |
+        <image mediaid="5192d840-fd81-4985-a05b-431e71bddc69" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T123131Z

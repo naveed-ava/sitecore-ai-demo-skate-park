@@ -1,0 +1,71 @@
+﻿---
+ID: "df2a31f5-d40a-4872-b297-28a3e56014a6"
+Parent: "aa1e65b5-d7ed-4ac1-a295-fdb937040172"
+Template: "fd2059fd-6043-4dfe-8c04-e2437ce87634"
+Path: "/sitecore/content/na-collection-demo/skate-park-na/Presentation/Partial Designs/Footer"
+BranchID: "8204a950-cbaa-4d06-878b-11ced5ddc1ad"
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "df6d17ee-3075-4d6e-bfa2-28489167eb74"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{AF7CAF15-D7A4-45F3-A815-3C428744F809}"
+          p:before="*"
+          s:id="{7A1D9A21-B8D7-42F9-9B0B-92ABF8D1974F}"
+          s:par="?Styles=%7b629710FA-5DDF-4F88-B18F-2129A62BABB7%7d%7c%7b070775C0-A829-4C73-A1CC-FFD8577A54A1%7d%7c%7b3DEF437A-1737-4B8E-A25E-67E0A9B10E17%7d%7c%7bB5A43341-25CE-4632-91C9-AAD8E623A43E%7d%7c%7b5D659B13-8B13-4091-868B-A34334873F27%7d%7c%7b40213DCE-3C23-450C-B8EB-5F7E5F589B89%7d%7c%7b64A56310-CA7B-41DA-AB2E-22B24CA5A194%7d%7c%7bF71614A7-4120-4D85-8824-83CCDF01FBD9%7d%7c%7bF5965146-A180-44D4-837D-D21D19A74094%7d%7c%7b9A06F934-B57F-41F5-9122-3B2126637610%7d%7c%7bB1E8F070-6F33-4179-9CA6-653395A2D81B%7d%7c%7b9D46ECBD-1096-413C-8F8B-F0C729AA6AE5%7d%7c%7b16687DE2-8F52-46F6-A988-30318E230713%7d%7c%7b64F9704A-D989-4BD6-AB50-3CE5BE813E99%7d%7c%7b891BD198-B1D4-4274-A24A-A91F510C65C4%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d&amp;DynamicPlaceholderId=1"
+          s:ph="headless-footer" />
+        <r
+          uid="{E2A207E8-2492-45A0-962C-C546F05F970F}"
+          p:after="r[@uid='{AF7CAF15-D7A4-45F3-A815-3C428744F809}']"
+          s:ds="local:/Data/Address"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b0064C7DF-6FB6-45F4-BE8B-27085FE2C88B%7d&amp;FieldNames=%7bCB669A48-AD37-4683-82BE-F80B0B4E1D75%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+        <r
+          uid="{4B487000-85C7-4454-B420-8D202CC5C0D9}"
+          p:after="*[1=2]"
+          s:ds="local:/Data/Contact info"
+          s:id="{9C6D53E3-FE57-4638-AF7B-6D68304C7A94}"
+          s:par="?Styles=%7b0064C7DF-6FB6-45F4-BE8B-27085FE2C88B%7d&amp;FieldNames=%7bCB669A48-AD37-4683-82BE-F80B0B4E1D75%7d&amp;GridParameters=%7b7465D855-992E-4DC2-9855-A03250DFA74B%7d%7c%7b31A49E90-E4B4-4F04-A3C7-E15B6835990F%7d"
+          s:ph="/headless-footer/container-1" />
+      </d>
+    </r>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{EDB00EAA-5ACA-4C4D-8B88-3195D992F980}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260405T210644Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d1ed1dca-4718-43bb-aca5-5e55f34c7c3e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260405T210654Z

@@ -1,0 +1,26 @@
+﻿---
+ID: "11a4d470-c0bd-4c7d-937b-22c6dccf8148"
+Parent: "0854979d-7956-479a-b84a-43c63a296052"
+Template: "def0aa0d-3446-41ae-b307-ec7ba429ce50"
+Path: /sitecore/system/Workflows/Basic Workflow/Draft/Approve/Datasource Workflow Action
+SharedFields:
+- ID: "8273a3db-fac0-44d6-aed0-29e2e039e8f9"
+  Hint: Command Item
+  Value: "{5ABAF974-916D-4D4A-A23B-0BC17CA34137}"
+- ID: "b5757325-3263-4daf-b6cd-811629cf4794"
+  Hint: Scope
+  Value: "{C049953F-D744-41FA-BE67-F9F90D3C30BB}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250522T121510Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e0586be3-e0d8-4bc2-a964-5cec60736e00"

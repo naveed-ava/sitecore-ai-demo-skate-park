@@ -1,0 +1,65 @@
+﻿---
+ID: "66464ffd-dafa-480d-9822-123b3fe1a513"
+Parent: "2bfe5300-2f8b-4ff3-804e-05ec6e2e4095"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Project/na-collection-demo/skate-park-na/Sitemaps/skate-park-na/sitemap"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/cube_molecule.png
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "d498da72-4712-480e-a29b-4cc3385edfbc"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiIHN0YW5kYWxvbmU9Im5vIj8+DQo8dXJsc2V0IHhtbG5zOnhodG1sPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hodG1sIiB4bWxucz0iaHR0cDovL3d3dy5zaXRlbWFwcy5vcmcvc2NoZW1hcy9zaXRlbWFwLzAuOSI+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3htYy1hdmFuYWRlLXhtY2xvdWR0cmFpbmluZy1hdGNpdHJhaW5pbmcxLnNpdGVjb3JlY2xvdWQuaW8vPC9sb2M+DQogICAgPGxhc3Rtb2Q+MjAyNi0wNC0wNjwvbGFzdG1vZD4NCiAgICA8Y2hhbmdlZnJlcT5kYWlseTwvY2hhbmdlZnJlcT4NCiAgICA8cHJpb3JpdHk+MC41PC9wcmlvcml0eT4NCiAgPC91cmw+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3htYy1hdmFuYWRlLXhtY2xvdWR0cmFpbmluZy1hdGNpdHJhaW5pbmcxLnNpdGVjb3JlY2xvdWQuaW8vQWJvdXQ8L2xvYz4NCiAgICA8bGFzdG1vZD4yMDI2LTA0LTA1PC9sYXN0bW9kPg0KICAgIDxjaGFuZ2VmcmVxPmRhaWx5PC9jaGFuZ2VmcmVxPg0KICAgIDxwcmlvcml0eT4wLjU8L3ByaW9yaXR5Pg0KICA8L3VybD4NCiAgPHVybD4NCiAgICA8bG9jPmh0dHBzOi8veG1jLWF2YW5hZGUteG1jbG91ZHRyYWluaW5nLWF0Y2l0cmFpbmluZzEuc2l0ZWNvcmVjbG91ZC5pby9FdmVudHM8L2xvYz4NCiAgICA8bGFzdG1vZD4yMDI2LTA0LTA2PC9sYXN0bW9kPg0KICAgIDxjaGFuZ2VmcmVxPmRhaWx5PC9jaGFuZ2VmcmVxPg0KICAgIDxwcmlvcml0eT4wLjU8L3ByaW9yaXR5Pg0KICA8L3VybD4NCiAgPHVybD4NCiAgICA8bG9jPmh0dHBzOi8veG1jLWF2YW5hZGUteG1jbG91ZHRyYWluaW5nLWF0Y2l0cmFpbmluZzEuc2l0ZWNvcmVjbG91ZC5pby9FdmVudHMvQ2xpbWJpbmc8L2xvYz4NCiAgICA8bGFzdG1vZD4yMDI2LTA0LTA2PC9sYXN0bW9kPg0KICAgIDxjaGFuZ2VmcmVxPmRhaWx5PC9jaGFuZ2VmcmVxPg0KICAgIDxwcmlvcml0eT4wLjU8L3ByaW9yaXR5Pg0KICA8L3VybD4NCiAgPHVybD4NCiAgICA8bG9jPmh0dHBzOi8veG1jLWF2YW5hZGUteG1jbG91ZHRyYWluaW5nLWF0Y2l0cmFpbmluZzEuc2l0ZWNvcmVjbG91ZC5pby9FdmVudHMvSGlraW5nPC9sb2M+DQogICAgPGxhc3Rtb2Q+MjAyNi0wNC0wNjwvbGFzdG1vZD4NCiAgICA8Y2hhbmdlZnJlcT5kYWlseTwvY2hhbmdlZnJlcT4NCiAgICA8cHJpb3JpdHk+MC41PC9wcmlvcml0eT4NCiAgPC91cmw+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3htYy1hdmFuYWRlLXhtY2xvdWR0cmFpbmluZy1hdGNpdHJhaW5pbmcxLnNpdGVjb3JlY2xvdWQuaW8vRXZlbnRzL0NsaW1iaW5nL0NsaW1iaW5nLU1vdW50LUV2ZXJlc3Q8L2xvYz4NCiAgICA8bGFzdG1vZD4yMDI2LTA0LTA2PC9sYXN0bW9kPg0KICAgIDxjaGFuZ2VmcmVxPmRhaWx5PC9jaGFuZ2VmcmVxPg0KICAgIDxwcmlvcml0eT4wLjU8L3ByaW9yaXR5Pg0KICAgIDx4aHRtbDpsaW5rIHJlbD0iYWx0ZXJuYXRlIiBocmVmbGFuZz0ieC1kZWZhdWx0IiBocmVmPSJodHRwczovL3htYy1hdmFuYWRlLXhtY2xvdWR0cmFpbmluZy1hdGNpdHJhaW5pbmcxLnNpdGVjb3JlY2xvdWQuaW8vRXZlbnRzL0NsaW1iaW5nL0NsaW1iaW5nLU1vdW50LUV2ZXJlc3QiIC8+DQogICAgPHhodG1sOmxpbmsgcmVsPSJhbHRlcm5hdGUiIGhyZWZsYW5nPSJlbiIgaHJlZj0iaHR0cHM6Ly94bWMtYXZhbmFkZS14bWNsb3VkdHJhaW5pbmctYXRjaXRyYWluaW5nMS5zaXRlY29yZWNsb3VkLmlvL2VuL0V2ZW50cy9DbGltYmluZy9DbGltYmluZy1Nb3VudC1FdmVyZXN0IiAvPg0KICAgIDx4aHRtbDpsaW5rIHJlbD0iYWx0ZXJuYXRlIiBocmVmbGFuZz0iZnItQ0EiIGhyZWY9Imh0dHBzOi8veG1jLWF2YW5hZGUteG1jbG91ZHRyYWluaW5nLWF0Y2l0cmFpbmluZzEuc2l0ZWNvcmVjbG91ZC5pby9mci1DQS9FdmVudHMvQ2xpbWJpbmcvQ2xpbWJpbmctTW91bnQtRXZlcmVzdCIgLz4NCiAgPC91cmw+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3htYy1hdmFuYWRlLXhtY2xvdWR0cmFpbmluZy1hdGNpdHJhaW5pbmcxLnNpdGVjb3JlY2xvdWQuaW8vZnItQ0EvRXZlbnRzL0NsaW1iaW5nL0NsaW1iaW5nLU1vdW50LUV2ZXJlc3Q8L2xvYz4NCiAgICA8bGFzdG1vZD4yMDI2LTA0LTA2PC9sYXN0bW9kPg0KICAgIDxjaGFuZ2VmcmVxPmRhaWx5PC9jaGFuZ2VmcmVxPg0KICAgIDxwcmlvcml0eT4wLjU8L3ByaW9yaXR5Pg0KICAgIDx4aHRtbDpsaW5rIHJlbD0iYWx0ZXJuYXRlIiBocmVmbGFuZz0ieC1kZWZhdWx0IiBocmVmPSJodHRwczovL3htYy1hdmFuYWRlLXhtY2xvdWR0cmFpbmluZy1hdGNpdHJhaW5pbmcxLnNpdGVjb3JlY2xvdWQuaW8vRXZlbnRzL0NsaW1iaW5nL0NsaW1iaW5nLU1vdW50LUV2ZXJlc3QiIC8+DQogICAgPHhodG1sOmxpbmsgcmVsPSJhbHRlcm5hdGUiIGhyZWZsYW5nPSJlbiIgaHJlZj0iaHR0cHM6Ly94bWMtYXZhbmFkZS14bWNsb3VkdHJhaW5pbmctYXRjaXRyYWluaW5nMS5zaXRlY29yZWNsb3VkLmlvL2VuL0V2ZW50cy9DbGltYmluZy9DbGltYmluZy1Nb3VudC1FdmVyZXN0IiAvPg0KICAgIDx4aHRtbDpsaW5rIHJlbD0iYWx0ZXJuYXRlIiBocmVmbGFuZz0iZnItQ0EiIGhyZWY9Imh0dHBzOi8veG1jLWF2YW5hZGUteG1jbG91ZHRyYWluaW5nLWF0Y2l0cmFpbmluZzEuc2l0ZWNvcmVjbG91ZC5pby9mci1DQS9FdmVudHMvQ2xpbWJpbmcvQ2xpbWJpbmctTW91bnQtRXZlcmVzdCIgLz4NCiAgPC91cmw+DQogIDx1cmw+DQogICAgPGxvYz5odHRwczovL3htYy1hdmFuYWRlLXhtY2xvdWR0cmFpbmluZy1hdGNpdHJhaW5pbmcxLnNpdGVjb3JlY2xvdWQuaW8vRXZlbnRzL0NsaW1iaW5nL0NsaW1iaW5nLXRoZS1GYWNlLW9mLUhhbGYtRG9tZTwvbG9jPg0KICAgIDxsYXN0bW9kPjIwMjYtMDQtMDY8L2xhc3Rtb2Q+DQogICAgPGNoYW5nZWZyZXE+ZGFpbHk8L2NoYW5nZWZyZXE+DQogICAgPHByaW9yaXR5PjAuNTwvcHJpb3JpdHk+DQogIDwvdXJsPg0KICA8dXJsPg0KICAgIDxsb2M+aHR0cHM6Ly94bWMtYXZhbmFkZS14bWNsb3VkdHJhaW5pbmctYXRjaXRyYWluaW5nMS5zaXRlY29yZWNsb3VkLmlvL0V2ZW50cy9DbGltYmluZy9Sb2NraWVzLUFkdmVudHVyZTwvbG9jPg0KICAgIDxsYXN0bW9kPjIwMjYtMDQtMDY8L2xhc3Rtb2Q+DQogICAgPGNoYW5nZWZyZXE+ZGFpbHk8L2NoYW5nZWZyZXE+DQogICAgPHByaW9yaXR5PjAuNTwvcHJpb3JpdHk+DQogIDwvdXJsPg0KICA8dXJsPg0KICAgIDxsb2M+aHR0cHM6Ly94bWMtYXZhbmFkZS14bWNsb3VkdHJhaW5pbmctYXRjaXRyYWluaW5nMS5zaXRlY29yZWNsb3VkLmlvL0V2ZW50cy9IaWtpbmcvSGlraW5nLVBpa2VzLVBlYWs8L2xvYz4NCiAgICA8bGFzdG1vZD4yMDI2LTA0LTA2PC9sYXN0bW9kPg0KICAgIDxjaGFuZ2VmcmVxPmRhaWx5PC9jaGFuZ2VmcmVxPg0KICAgIDxwcmlvcml0eT4wLjU8L3ByaW9yaXR5Pg0KICA8L3VybD4NCiAgPHVybD4NCiAgICA8bG9jPmh0dHBzOi8veG1jLWF2YW5hZGUteG1jbG91ZHRyYWluaW5nLWF0Y2l0cmFpbmluZzEuc2l0ZWNvcmVjbG91ZC5pby9FdmVudHMvSGlraW5nL0hpa2luZy10aGUtSXRhbGlhbi1BbHBzPC9sb2M+DQogICAgPGxhc3Rtb2Q+MjAyNi0wNC0wNjwvbGFzdG1vZD4NCiAgICA8Y2hhbmdlZnJlcT5kYWlseTwvY2hhbmdlZnJlcT4NCiAgICA8cHJpb3JpdHk+MC41PC9wcmlvcml0eT4NCiAgPC91cmw+DQo8L3VybHNldD4=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 3698
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/xml
+- ID: "9c6106ea-7a5a-48e2-8cad-f0f693b1e2d4"
+  Hint: __Read Only
+  Value: 1
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: xml
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "60802426-19c5-4f6f-b8f9-829e516c3f68"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T122733Z
+    - ID: "2fafe7cb-2691-4800-8848-255efa1d31aa"
+      Hint: Keywords
+      Value: |
+        sd:{8A73C125-10F4-4301-BB67-5BB736931CD2}
+        site:{650F18A6-BD83-4A33-B979-A85173CACCEC}
+    - ID: "3f4b20e9-36e6-4d45-a423-c86567373f82"
+      Hint: Title
+      Value: sitemap
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b9165e33-9cc9-4b7a-a10e-27a16709b18d"
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: Sitecore Experience Accelelator sitemap file
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T122734Z

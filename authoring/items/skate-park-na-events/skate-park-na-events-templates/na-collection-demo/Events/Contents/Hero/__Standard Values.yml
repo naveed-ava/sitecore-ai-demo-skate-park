@@ -1,0 +1,38 @@
+﻿---
+ID: "c35e521f-83e2-4d9c-9a24-3c2f26f587e8"
+Parent: "447cdd42-18f1-4798-8495-fedc46bd7f93"
+Template: "447cdd42-18f1-4798-8495-fedc46bd7f93"
+Path: "/sitecore/templates/Project/na-collection-demo/Events/Contents/Hero/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20260406T023629Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "de9d94af-6b14-4d4a-a6b7-d3ea134d8123"
+    - ID: "932ee6d1-e8c9-47c0-a0e2-c05b51ba6e29"
+      Hint: HeroImage
+      Value: |
+        <image mediaid="{0E797D6E-BA52-4CFF-B3B1-68F4B699375C}" />
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\naveed.b.ahmad@avanade.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20260406T023759Z
+    - ID: "f1c15a2b-57a4-469a-9cef-cb70f568742e"
+      Hint: HeroText
+      Value: $name
