@@ -16,6 +16,7 @@ import * as LinkList from 'src/components/link-list/LinkList';
 import * as Image from 'src/components/image/Image';
 import * as RelatedEvent from 'src/components/events/RelatedEvent';
 import * as FeaturedEvent from 'src/components/events/FeaturedEvent';
+import * as EventPromo from 'src/components/events/EventPromo';
 import * as EventInfo from 'src/components/events/EventInfo';
 import * as EventDetails from 'src/components/events/EventDetails';
 import * as ContentIntro from 'src/components/events/ContentIntro';
@@ -42,7 +43,8 @@ export const componentMap = new Map<string, NextjsContentSdkComponent>([
   ['LinkList', { ...LinkList }],
   ['Image', { ...Image }],
   ['RelatedEvent', { ...RelatedEvent }],
-  ['FeaturedEvent', { ...FeaturedEvent,componentType: 'client' }],
+  ['FeaturedEvent', { ...FeaturedEvent, componentType: 'client' }],
+  ['EventPromo', { ...EventPromo }],
   ['EventInfo', { ...EventInfo }],
   ['EventDetails', { ...EventDetails }],
   ['ContentIntro', { ...ContentIntro }],
